@@ -1,0 +1,6 @@
+---
+ - name : launching ec2
+   key_name: karthik4
+   image:ami-b63769a1
+   region:east-us-1
+
